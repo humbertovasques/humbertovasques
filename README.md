@@ -18,6 +18,7 @@
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>&nbsp
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>&nbsp
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>&nbsp
+    <img width="60" height="60" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="microsoft-sql-server"/>
           
   </div>
   
