@@ -13,7 +13,7 @@ Furthermore, I'm consistently enhancing my skills in the field of software engin
 
 I'm excited to collaborate, learn, and contribute to the developer community. Let's connect, share knowledge, and create together!
 
-<div  align="center"> https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
+<div  align="center">
   
   <h1 align="center">Tech Stack</h1>  
   <div align="center">
