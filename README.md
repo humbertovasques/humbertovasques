@@ -7,7 +7,7 @@
 
 Hi there! My name is Humberto Vasques, and I'm a Full Stack developer with a passion for technology. With degrees in both Systems Analysis and Development, as well as Physics, my journey has brought me a unique perspective to technology.
 
-When you delve into my repositories, you'll discover a collection of projects that reflect my commitment to continuous learning. These projects cover a range of tech, from HTML and Python to C# and SQL Server.
+When you delve into my repositories, you'll discover a collection of projects that reflect my commitment to continuous learning. These projects cover a range of technologies, from HTML and Python to C# and SQL Server.
 
 Furthermore, I'm consistently enhancing my skills in the field of software engineering. I'm currently pursuing a specialization in this domain, honing my skills and adopting innovative practices.
 
@@ -26,6 +26,7 @@ I'm excited to collaborate, learn, and contribute to the developer community. Le
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>&nbsp
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>&nbsp
     <img width="60" height="60" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="microsoft-sql-server"/>
+    <img width="60" height="60" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   </div>
   
   <br>
