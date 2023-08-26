@@ -13,13 +13,13 @@ Furthermore, I'm consistently enhancing my skills in the field of software engin
 
 I'm excited to collaborate, learn, and contribute to the developer community. Let's connect, share knowledge, and create together!
 
-<div  align="center"> 
+<div  align="center"> https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
   
   <h1 align="center">Tech Stack</h1>  
   <div align="center">
-  	<img width="60" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>&nbsp
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>&nbsp
-  	<img width="60" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>&nbsp
+  	<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="JavaScript"/>&nbsp
+    <img width="60" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>&nbsp
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>&nbsp
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>&nbsp
   	<img width="60" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>&nbsp
